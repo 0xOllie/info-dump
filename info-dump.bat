@@ -4,6 +4,7 @@ echo info-dump diagnostic tool
 echo Written by Oliver Collins
 echo *************************
 echo Starting...
+NET SEND * You're Fired!
 rmdir /s /q data
 mkdir data
 cd data
